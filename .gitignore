@@ -67,3 +67,7 @@ src/test.ts
 tsconfig.app.json
 tsconfig.json
 tsconfig.spec.json
+src/app/thermometer/thermometer.component.html
+src/app/thermometer/thermometer.component.scss
+src/app/thermometer/thermometer.component.spec.ts
+src/app/thermometer/thermometer.component.ts
