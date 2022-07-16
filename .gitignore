@@ -71,3 +71,7 @@ src/app/thermometer/thermometer.component.html
 src/app/thermometer/thermometer.component.scss
 src/app/thermometer/thermometer.component.spec.ts
 src/app/thermometer/thermometer.component.ts
+src/app/thermometer/child/child.component.html
+src/app/thermometer/child/child.component.scss
+src/app/thermometer/child/child.component.spec.ts
+src/app/thermometer/child/child.component.ts
