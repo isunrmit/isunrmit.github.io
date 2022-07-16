@@ -75,3 +75,4 @@ src/app/thermometer/child/child.component.html
 src/app/thermometer/child/child.component.scss
 src/app/thermometer/child/child.component.spec.ts
 src/app/thermometer/child/child.component.ts
+*.ts
