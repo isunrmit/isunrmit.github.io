@@ -37,8 +37,6 @@ yarn-error.log
 testem.log
 /typings
 !/docs
-/src
-/src/thermometer
 
 
 # System Files
